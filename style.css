@@ -37,7 +37,7 @@ body {
     width: 8px;
     border-radius: 50%;
     background-color: white;
-    
+    z-index:8;
 }
 
 .clock span{
@@ -88,4 +88,5 @@ body {
     height: 89px;
     width: 3px;
     background-color: white;
+
 }
